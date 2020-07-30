@@ -1,7 +1,7 @@
 <template>
   <Layout>
-    <h1 class="logo">Tobias<span>Andersen</span></h1>
-    <h2 class="subtitle"><b>Say hi:</b> tobias@andersen.work</h2>
+    <h1 class="logo">Jazz<span>Rosende</span></h1>
+    <h2 class="subtitle"><b>Say hi:</b> jazz@rosende.work</h2>
   </Layout>
 </template>
 
